@@ -6,4 +6,4 @@ Work in progress,use at own risk!
 
 Todo:
 
-Repositories wil follow asap.
+Repositories will follow asap.
